@@ -1,0 +1,25 @@
+.main {
+    height: 100vh;
+    width: 100vw;
+    background-color: #3b3b3b;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .title {
+    font-family: "Ubuntu";
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 32px;
+  }
+  
+  .container {
+    width: 1256px;
+    height: 781px;
+    margin-left: 12px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+  }
+  

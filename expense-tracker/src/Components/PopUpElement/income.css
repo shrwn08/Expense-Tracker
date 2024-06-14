@@ -1,0 +1,22 @@
+.i-container {
+  width: 538px;
+  height: 164px;
+  border-radius: 15px;
+  background-color: #efefefd9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.income-container {
+  font-family: "Ubuntu";
+  font-size: 30px;
+  font-weight: 700;
+  height: auto;
+}
+
+.content-i-container {
+  width: 502px;
+  height: 53px;
+  display: flex;
+  gap: 10px;
+}
